@@ -8,7 +8,6 @@ Ajudar pessoas a controlar gastos, criar metas financeiras e tomar decisões int
 ## 🛠️ Tecnologias
 - React
 - JavaScript
-- StackBlitz
 - GitHub
 - IA (simulada)
 
