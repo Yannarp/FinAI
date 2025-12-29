@@ -20,5 +20,4 @@ Ajudar pessoas a controlar gastos, criar metas financeiras e tomar decisões int
 ## 🧠 Vibe Coding
 Projeto desenvolvido utilizando prompts claros e IA como parceira de desenvolvimento.
 
-## ▶️ Como executar
-Projeto online via StackBlitz.
+
