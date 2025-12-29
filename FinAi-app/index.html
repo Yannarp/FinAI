@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FinAI - Finanças Pessoais</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>FinAI 💰</h1>
+
+    <section>
+      <h2>Novo Gasto</h2>
+      <input id="descricao" placeholder="Ex: Mercado" />
+      <input id="valor" type="number" placeholder="Valor (R$)" />
+      <button onclick="adicionarGasto()">Adicionar</button>
+    </section>
+
+    <section>
+      <h2>Resumo Mensal</h2>
+      <p id="total">Total gasto: R$ 0,00</p>
+    </section>
+
+    <section>
+      <h2>Assistente Financeiro 🤖</h2>
+      <input id="pergunta" placeholder="Pergunte sobre suas finanças..." />
+      <button onclick="perguntarIA()">Enviar</button>
+      <p id="respostaIA"></p>
+    </section>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
